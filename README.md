@@ -1,4 +1,4 @@
-# OC-P3-Conception_d_une_application_au_service_de_la_sante_publique (Design of an application for the service of public health).
+# OC-P3-Conception d’une application au service de la santé publique (Design of an application for the service of public health).
 
 ## Objectives
 
